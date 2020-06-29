@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Summary}{}% 1
+\BOOKMARK [1][-]{section.2}{Results and Discussion}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Sinusoidal Input}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Random Noise Input}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Hammer Input}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Hammer Impulse analysis}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.5}{Calibration}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.6}{Comparison of calibrated Responses}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.7}{Coupled System Response}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.8}{Transfer Function theory}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.9}{Method comparison}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.10}{Damping}{section.2}% 12
+\BOOKMARK [1][-]{section.3}{Conclusion}{}% 13
+\BOOKMARK [1][-]{section.4}{Appendix}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Theoretical mode shape and transfer function python code}{section.4}% 15
